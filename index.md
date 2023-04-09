@@ -1,4 +1,4 @@
-## ML/AI and Data Science Projects
+## ML/AI and data science projects
 
 ---
 
@@ -18,7 +18,7 @@ A tool that can split multi-label data while maintaining group-independency amon
 
 ---
 
-## Software Engineering Projects
+## Software engineering projects
 
 ---
 
