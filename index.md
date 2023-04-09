@@ -14,7 +14,7 @@ Developed a complete ML pipeline for speech-based Automatic Personality Recognit
 
 A project with two collaborators aimed at better visualizing data regarding the European Refugee Crisis, as numbers stated in newspapers often don't appeal to imagination. By scrolling the mousewheel, you move through time, changing the arrows on the map according to how frequent certain refugee routes were used. The stacked bar chart shows the refugees' country of origin, while the crosses at the bottom represent the known number of deaths from people trying to cross the Mediaterranean Sea.
 
-<img src="images/european-refugee-crisis.webm?raw=true"/>
+<img src="images/european-refugee-crisis.gif?raw=true"/>
 ---
 
 ### Multi-label Stratified Group Splits
