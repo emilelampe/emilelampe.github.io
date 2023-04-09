@@ -1,35 +1,33 @@
-## Portfolio
+## Projects related to ML/AI and data science
 
 ---
 
-### Category Name 1 
+### Speech-based Automatic Personality Recognition
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Developed a complete ML pipeline for speech-based Automatic Personality Recognition on novel databases for spontaneous and scripted speech. The spontaneous speech database was part of a larger project, where my team and I had people have conversations with a digital avatar connected to GPT-3.
+<img src="images/apr_experiment.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Multi-label Stratified Group Splits
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+A tool that can split multi-label data while maintaining group-independency amongst the splits and stratifying the data. Included are functions to split data into a training and test set, to create k folds for cross validation, and to output a graph showing the multi-label stratification of the created training and test set.
+<img src="images/multilabel-stratified-group-split.jpg?raw=true"/>
+
+---
+
+## Software Engineering Projects
+
+---
+
+### You Need A Budget - Splitwise Connect
+
+Connects personal finance app You Need A Budget with cost-sharing app Splitwise. Transactions marked as 'shared' in YNAB are automatically uploaded to Splitwise. Transactions payed by a friend on Splitwise are automatically added as a shared transaction to YNAB. This reduces keeping track of shared transactions in both apps to only marking them once as shared in YNAB.
+
+<img src="images/ynab-splitwise.jpg?raw=true"/>
 
 ---
 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
