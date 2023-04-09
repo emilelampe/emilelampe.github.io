@@ -10,6 +10,14 @@ Developed a complete ML pipeline for speech-based Automatic Personality Recognit
 
 ---
 
+### The European Refugee Crisis in data over time
+
+By scrolling, you move through time, changing the arrows on the map according to how frequent certain refugee routes were used. The stacked bar chart shows the country of origin, while the crosses at the bottom represent the known number of deaths from people trying to cross the Mediaterranean Sea.
+
+<img src="images/european-refugee-crisis.png?raw=true"/>
+
+---
+
 ### Multi-label Stratified Group Splits
 
 A tool that can split multi-label data while maintaining group-independency amongst the splits and stratifying the data. Included are functions to split data into a training and test set, to create k folds for cross validation, and to output a graph showing the multi-label stratification of the created training and test set.
