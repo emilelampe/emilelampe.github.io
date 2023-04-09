@@ -24,7 +24,8 @@ A tool that can split multi-label data while maintaining group-independency amon
 
 ### You Need A Budget - Splitwise Connect
 
-Connects personal finance app You Need A Budget with cost-sharing app Splitwise. Transactions marked as 'shared' in YNAB are automatically uploaded to Splitwise. Transactions payed by a friend on Splitwise are automatically added as a shared transaction to YNAB. This reduces keeping track of shared transactions in both apps to only marking them once as shared in YNAB.
+Connects personal finance app You Need A Budget with cost-sharing app Splitwise. 
+Reduces manually uploading and keeping track of shared transactions in both apps to only marking transactions as ‘shared’ once in YNAB.
 
 <img src="images/ynab-splitwise.jpg?raw=true"/>
 
