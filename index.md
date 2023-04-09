@@ -1,4 +1,4 @@
-## Projects related to ML/AI and data science
+## ML/AI and Data Science projects
 
 ---
 
