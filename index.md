@@ -5,6 +5,7 @@
 ### Speech-based Automatic Personality Recognition
 
 Developed a complete ML pipeline for speech-based Automatic Personality Recognition on novel databases for spontaneous and scripted speech. The spontaneous speech database was part of a larger project, where my team and I had people have conversations with a digital avatar connected to GPT-3.
+
 <img src="images/apr_experiment.jpg?raw=true"/>
 
 ---
@@ -12,6 +13,7 @@ Developed a complete ML pipeline for speech-based Automatic Personality Recognit
 ### Multi-label Stratified Group Splits
 
 A tool that can split multi-label data while maintaining group-independency amongst the splits and stratifying the data. Included are functions to split data into a training and test set, to create k folds for cross validation, and to output a graph showing the multi-label stratification of the created training and test set.
+
 <img src="images/multilabel-stratified-group-split.jpg?raw=true"/>
 
 ---
