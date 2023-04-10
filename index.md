@@ -10,7 +10,7 @@ Developed a complete ML pipeline for speech-based Automatic Personality Recognit
 
 ---
 
-### The European Refugee Crisis in data over time[https://emilelampe.github.io/european-refugee-crisis-visualization/]
+### [The European Refugee Crisis in data over time](https://emilelampe.github.io/european-refugee-crisis-visualization/)
 
 A project with two collaborators aimed at better visualizing data regarding the European Refugee Crisis, as numbers stated in newspapers often don't appeal to imagination. By scrolling the mousewheel, you move through time, changing the arrows on the map according to how frequent certain refugee routes were used. The stacked bar chart shows the refugees' country of origin, while the crosses at the bottom represent the known number of deaths from people trying to cross the Mediaterranean Sea.
 
@@ -37,7 +37,6 @@ Reduces manually uploading and keeping track of shared transactions in both apps
 <img src="images/ynab-splitwise.jpg?raw=true"/>
 
 ---
-
 
 
 
