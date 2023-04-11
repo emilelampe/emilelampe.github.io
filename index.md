@@ -14,7 +14,7 @@ Developed a complete ML pipeline for speech-based Automatic Personality Recognit
 
 The European Refugee Crisis visualization project is an interactive website that offers a human-centric perspective on refugee migration through time. It features a map of Europe and Africa displaying refugee routes, a stacked bar chart representing the number of refugees and their countries of origin, and crosses symbolizing lives lost during the Mediterranean crossing, all created using D3.js for data-driven visualizations.
 
-[GitHub](https://github.com/emilelampe/european-refugee-crisis-visualization/){:target="_blank"} | [Project Website](https://emilelampe.github.io/european-refugee-crisis-visualization/){:target="_blank"}
+[GitHub](https://github.com/emilelampe/european-refugee-crisis-visualization/){:target="_blank"}, [Project Website](https://emilelampe.github.io/european-refugee-crisis-visualization/){:target="_blank"}
 
 <img src="images/european-refugee-crisis.gif?raw=true"/>
 
