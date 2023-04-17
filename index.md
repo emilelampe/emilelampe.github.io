@@ -28,7 +28,7 @@ A tool that can split multi-label data while maintaining group-independency amon
 
 [GitHub](https://github.com/emilelampe/maestros){:target="_blank"}
 
-<img src="images/multilabel-stratified-group-split.jpg?raw=true"/>
+<img src="images/stratification_chart.png?raw=true"/>
 
 ## Software engineering projects
 
@@ -36,10 +36,7 @@ A tool that can split multi-label data while maintaining group-independency amon
 
 ### You Need A Budget - Splitwise Connect
 
-Connects personal finance app You Need A Budget with cost-sharing app Splitwise. 
+Connects personal finance app You Need A Budget with cost-sharing app Splitwise.
 Reduces manually uploading and keeping track of shared transactions in both apps to only marking transactions as ‘shared’ once in YNAB.
 
 <img src="images/ynab-splitwise.jpg?raw=true"/>
-
-
-
