@@ -26,6 +26,8 @@ The European Refugee Crisis visualization project is an interactive website that
 
 A tool that can split multi-label data while maintaining group-independency amongst the splits and stratifying the data. Included are functions to split data into a training and test set, to create k folds for cross validation, and to output a graph showing the multi-label stratification of the created training and test set.
 
+[GitHub](https://github.com/emilelampe/maestros){:target="_blank"}
+
 <img src="images/multilabel-stratified-group-split.jpg?raw=true"/>
 
 ## Software engineering projects
