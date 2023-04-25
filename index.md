@@ -36,7 +36,8 @@ A Python library that can split multi-label data while maintaining group-indepen
 
 ### You Need A Budget - Splitwise Connect
 
-Connects personal finance app You Need A Budget with cost-sharing app Splitwise.
-Reduces manually uploading and keeping track of shared transactions in both apps to only marking transactions as ‘shared’ once in YNAB.
+Connects personal finance app You Need A Budget with cost-sharing app Splitwise. Significantly reduces the timer and effort needed to keep track of shared expenses on both platforms.
+
+[GitFront](https://gitfront.io/r/emilelampe/hQdhKxb45kDM/ynab-splitwise-connect/)
 
 <img src="images/ynab-splitwise.jpg?raw=true"/>
