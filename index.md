@@ -4,7 +4,7 @@
 
 ### Speech-based Automatic Personality Recognition
 
-Developed a complete ML pipeline for speech-based Automatic Personality Recognition on novel databases for spontaneous and scripted speech. The spontaneous speech database was part of a larger project, where my team and I had people have conversations with a digital avatar connected to GPT-3.
+Developed a complete ML pipeline for speech-based personality classification using novel databases. Additionally, I helped create a database where participants had unguided conversations with a digital avatar, which generated its responses through GPT-3.
 
 [GitHub](https://github.com/emilelampe/speech-automatic-personality-recognition){:target="_blank"}
 
