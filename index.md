@@ -2,6 +2,16 @@
 
 ---
 
+### MLOps for Dutch Fuel Price Prediction
+
+Building an MLOps system for the prediction of Dutch fuel prices. Includes cloud integration, containerization, model experimentation and registration, workflow orchestration, model and data monitoring, CI/CD and continuous training, and API development.
+
+[GitHub](https://github.com/emilelampe/dutch-fuel-prices){:target="_blank"}
+
+<img src="images/overview-dutch-fuel-prices.png?raw=true"/>
+
+---
+
 ### Speech-based Automatic Personality Recognition
 
 Developed a complete ML pipeline for speech-based personality classification using novel databases. Additionally, I helped create a database where participants had unguided conversations with a digital avatar, which generated its responses through GPT-3.
